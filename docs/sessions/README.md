@@ -34,3 +34,5 @@
 [2022](reports/year/2022.md)
 [2023](reports/year/2023.md)
 [2024](reports/year/2024.md)
+[2025](reports/year/2025.md)
+[2026](reports/year/2026.md)
