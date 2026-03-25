@@ -14,7 +14,7 @@
 |  10 | 1997-04-26 | Zeebaars                        | Bass                    | Dicentrarchus labrax        | NL, GB     |
 |  11 | 1999-04-25 | Schar                           | Dab                     | Limanda limanda             | NL, GB, DK |
 |  12 | 2005-07-11 | Horsmakreel                     | Atlantic horse mackerel | Trachurus trachurus         | NL         |
-|  13 | 2005-10-15 | Vijfdradige meun                | Five bearded rockling   | Cilata mustela              | NL, GB     |
+|  13 | 2005-10-15 | Vijfdradige meun                | Five bearded rockling   | Ciliata mustela             | NL, GB     |
 |  14 | 2006-08-02 | Blankvoorn                      | Roach                   | Rutilus rutilus             | NL         |
 |  15 | 2008-06-17 | Fint                            | Twaite Shad             | Alosa fallax                | NL         |
 |  16 | 2009-07-16 | Bruine Amerikaanse dwergmeerval | Brown bullhead          | Ameiurus nebulosus          | FR         |
