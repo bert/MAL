@@ -1,4 +1,4 @@
-# A list of fly patterns in my fly boxes.
+# A list of fly patterns in my fly boxes (or tying list).
 
 Below is a list of fly pattern recipes in alphabetical order.
 
@@ -23,6 +23,28 @@ post: Tiemco Aero Dry Wing (Fluorescent White)
 wing: Whiting Pro grade (Grizzly & Brown)
 
 location: tying list
+
+---
+
+## Another Tactical Grayling
+
+category: Nymph
+
+source: Hartmut Glowa@facebook
+
+hook: Hends BL 124 BL # 14 - 18
+
+bead: Red/Violett 4mm
+
+thread:
+
+tail: CDL
+
+body: Black Pheasant tail 
+
+ribbing: Copper wire Red
+
+dubbing: UV Rainbow blue
 
 ---
 
@@ -88,11 +110,11 @@ location: NYMPH Leaf #3, Row 1, Left
 
 ## Autumn Emerger Caddis #10
 
+category: Emerger
+
 originator:
 
 source: [Davy McPhail](https://www.youtube.com/watch?v=wUAVfEYxH_o)
-
-category: Emerger
 
 hook: Fulling Mill Short Shank Specials #10
 
@@ -135,6 +157,8 @@ wing: Elk Hair
 thorax cover: Yellow Close Cell Foam
 
 thorax: Ginger Caddis Dubbing
+
+location: tying list
 
 ---
 
@@ -276,11 +300,21 @@ location: BUZZER
 
 ---
 
+## Beaded Buzzer Red Seed Beads, #12, BT
+
+category: Nymph
+
+mfg: Bert Timmerman
+
+location: BUZZER
+
+---
+
 ## BHD Garfish Fly #8-#12
 
-category: Cold saltwater fly
+category: Cold Saltwater
 
-source: https://globalflyfisher.com/pattern/bhd-garfish-fly
+source: [GlobalFlyFisher](https://globalflyfisher.com/pattern/bhd-garfish-fly)
 
 hook: Kamasan B170 or other wet fly hook size #8-#12
 
@@ -298,9 +332,9 @@ location: tying list
 
 ## BHD Garfish Fly (variant) #8 [BT]
 
-category: Cold saltwater fly
+category: Cold Saltwater
 
-source: https://globalflyfisher.com/pattern/bhd-garfish-fly
+source: [GlobalFlyFisher](https://globalflyfisher.com/pattern/bhd-garfish-fly)
 
 hook: TMC 800S #8
 
@@ -512,7 +546,7 @@ originator:
 
 source: [Davy McPhail](https://www.youtube.com/watch?v=WsZHCbZBVxo)
 
-hook: Fulling Mill Czech Nymph size 14
+hook: Fulling Mill Czech Nymph size #14
 
 thread: Uni-8/0 White
 
@@ -538,7 +572,7 @@ location: tying list
 
 category: Salmon
 
-hook: Salmon haak #4
+hook: Salmon #4
 
 thread: Black
 
@@ -547,6 +581,28 @@ hackle: Black Marabou and Light Blue/Silver tinsel (small) and Black/Pearl Cryst
 seller: Henk Peeters
 
 location: Pool12
+
+---
+
+## Black & Orange Nymph
+
+category: Nymph
+
+source: Helmut Glowa
+
+hook: Hends BL 200 #12 - 16
+
+bead: Black 3,3 mm
+
+tail: Thread Hot Orange UV
+
+body: Turkey Biot Black
+
+ribbing: Hends Wire Black
+
+thorax: Rainbow UV Dubbing
+
+location: tying list
 
 ---
 
@@ -656,11 +712,33 @@ location: WET Leaf #4, Row 4, Middle
 
 ---
 
-## Black Peacock Spider #8 [BT]
-
-originator:
+## Black Hairwing #12 [BT]
 
 category: Wet
+
+hook: TMC 100SP-BL #12
+
+thread: UNI-Thread Black 6/0
+
+body: Black thread
+
+hackle: Black cock hackle
+
+head: thread
+
+cement: .
+
+mfg: Bert Timmerman
+
+location: tying list
+
+---
+
+## Black Peacock Spider #8 [BT]
+
+category: Wet
+
+originator:
 
 source: [VNV Fly Finder](https://vnv.nu/vliegenzoeker/black-peacock-spider/)
 
@@ -680,9 +758,9 @@ location: WET Leaf 3, Row 3, Right
 
 ## Black Peacock Spider #10 [BT]
 
-originator:
-
 category: Wet
+
+originator:
 
 source: [VNV Fly Finder](https://vnv.nu/vliegenzoeker/black-peacock-spider/)
 
@@ -702,9 +780,9 @@ location: WET Leaf 3, Row 3, Middle
 
 ## Black Peacock Spider #10-16
 
-originator:
-
 category: Wet
+
+originator:
 
 source: [VNV Fly Finder](https://vnv.nu/vliegenzoeker/black-peacock-spider/)
 
@@ -724,9 +802,9 @@ location: tying list
 
 ## Black Pennell (bead head) #8 [BT]
 
-originator: H. Cholmondeley Pennell
-
 category: Wet
+
+originator: H. Cholmondeley Pennell
 
 hook: TMC 100BL #8
 
@@ -750,9 +828,9 @@ location: WET Leaf #1, Row 1, Left
 
 ## Black Pennell #10 [BT]
 
-originator: H. Cholmondeley Pennell
-
 category: Wet
+
+originator: H. Cholmondeley Pennell
 
 hook: TMC 100SP-BL #10
 
@@ -773,6 +851,8 @@ location: WET Leaf #1, Row 5, Middle
 ---
 
 ## Black Sheep #2 [BT]
+
+category: Salmon
 
 hook: TMC 7999 #2
 
@@ -852,72 +932,6 @@ location: JIGS, Top, Column 5, Down
 
 ---
 
-## Black Zebra Midge Pupa (Black Bead) #14 [BT]
-
-category: Nymph
-
-hook: Grey Matzo Shrimp BL #14
-
-head: Black bead
-
-thread: UNI-Thread Black 6/0
-
-rib: Silver Oval tinsel
-
-body: Black thread
-
-thorax: Peacock herl
-
-mfg: Bert Timmerman
-
-location: Maxcatch, Down, Column 9
-
----
-
-## Black Zebra Midge Pupa (Gold Bead) #14 [BT]
-
-category: Nymph
-
-hook: Grey Matzo Shrimp BL #14
-
-head: Gold bead
-
-thread: UNI-Thread Black 6/0
-
-rib: Silver Oval tinsel
-
-body: Black thread
-
-thorax: Peacock herl
-
-mfg: Bert Timmerman
-
-location: Maxcatch, Down, Column 7
-
----
-
-## Black Zebra Midge Pupa (Yellow Bead) #14 [BT]
-
-category: Nymph
-
-hook: Grey Matzo Shrimp BL #14
-
-head: Yellow bead
-
-thread: UNI-Thread Black 6/0
-
-rib: Silver Oval tinsel
-
-body: Black thread
-
-thorax: Peacock herl
-
-mfg: Bert Timmerman
-
-location: Maxcatch, Down, Column 8
-
----
-
 ## Bling Midge (Hot Green variant) #16 [BT]
 
 category: Nymph
@@ -949,6 +963,24 @@ body: tying thread
 thorax: three turns of UNI Mylar #16 1/69" Pearl (fix with super glue)
 
 head: cemented Bright Green thread
+
+location: 
+
+---
+
+## Bling Midge (Olive variant) #16 [BT]
+
+category: Nymph
+
+hook: TMC 100BL #16
+
+thread: UNI thread 8/0 Olive
+
+body: tying thread
+
+thorax: three turns of UNI Mylar #16 1/69" Pearl (fix with super glue)
+
+head: cemented Olive thread
 
 location: 
 
@@ -1104,11 +1136,11 @@ hot collar: Doctor Blue 8/0 Uni-Thread
 
 ## Blue Flash Damsel #10
 
+category: Nymph/Woolly Bugger
+
 originator:
 
 source: [Davie McPhail](https://www.youtube.com/watch?v=u-2XkFsnHrk)
-
-category: Nymph/Woolly Bugger
 
 hook: size #10 Lure
 
@@ -1380,7 +1412,7 @@ location: WET Leaf #4, Row 2, Left
 
 ---
 
-desciption: Brown Hen and Red (Northern Spider style) #12 [BT]
+## Brown Hen and Red (Northern Spider style) #12 [BT]
 
 category: Spider
 
@@ -1398,7 +1430,7 @@ location: WET Leaf #4, Row 2, Middle
 
 ---
 
-desciption: Brown Hen and Red (Northern Spider style) #14 [BT]
+## Brown Hen and Red (Northern Spider style) #14 [BT]
 
 category: Spider
 
@@ -1472,9 +1504,9 @@ location: tying list
 
 ## Brown Pennell (variant) #10 [BT]
 
-originator: H. Cholmondeley Pennell
-
 category: Wet
+
+originator: H. Cholmondeley Pennell
 
 hook: TMC 100SP-BL #10
 
@@ -1516,7 +1548,7 @@ location: NYMPH Leaf #1, Row 4, Left
 
 ## BWO CDC Thread Dun #16-#22
 
-category: Dry Fly
+category: Dry
 
 originator: Goran Grubić and Aleksandar Panić
 
@@ -1534,69 +1566,25 @@ location: tying list
 
 ---
 
-## Camel Zebra Midge Pupa (Black Bead) #14 [BT]
+## Caddis Jig Nymph (Chartreuse variant, Silver Tungsten Bead 2.8 mm) #14 [BT]
 
 category: Nymph
 
-hook: Grey Matzo Shrimp BL #14
+hook: TMC 403BLJ #14
 
-head: Black bead
+bead: 2.8 mm slotted Silver Tungsten Bead
 
-thread: UNI-Thread Camel 8/0
+thread: UNI-Thread Chartreuse 8/0W
 
-body: Camel thread
-
-rib: Silver Oval tinsel
+body: 0.35 mm Midnight Moon nylon monofilament Yellow
 
 thorax: Peacock herl
 
-mfg: Bert Timmerman
-
-location: Maxcatch, Down, Column 3
-
----
-
-## Camel Zebra Midge Pupa (Gold Bead) #14 [BT]
-
-category: Nymph
-
-hook: Grey Matzo Shrimp BL #14
-
-head: Gold bead
-
-thread: UNI-Thread Camel 8/0
-
-body: Camel thread
-
-rib: Silver Oval tinsel
-
-thorax: Peacock herl
+varnish: standard
 
 mfg: Bert Timmerman
 
-location: Maxcatch, Down, Column 1
-
----
-
-## Camel Zebra Midge Pupa (Yellow Bead) #14 [BT]
-
-category: Nymph
-
-hook: Grey Matzo Shrimp BL #14
-
-head: Yellow bead
-
-thread: UNI-Thread Camel 8/0
-
-body: Camel thread
-
-rib: Silver Oval tinsel
-
-thorax: Peacock herl
-
-mfg: Bert Timmerman
-
-location: Maxcatch, Down, Column 2
+location: Flyline Jigs, Down, Row 1-4, Column 6
 
 ---
 
@@ -1615,6 +1603,78 @@ body: Orange floss
 mfg: Bert Timmerman
 
 location: NYMPH Leaf #4, Row 1, Middle
+
+---
+
+## Cased Caddis Larva #16
+
+category: Nymph
+
+source: [tightlinevideo](https://www.youtube.com/watch?v=S4ZS3KSyUTA)
+
+hook: 3X-strong, black nickel barbless hook (here, a Fulling Mill FM5105), size #16.
+
+thread: Fluorescent chartreuse, 8/0 or 140-denier.
+
+body: Pheasant-tail fibers.
+
+head: Fluorescent chartreuse, 8/0 or 140-denier.
+
+location: tying list
+
+---
+
+## Cased Caddis Larva (Grannom variant) #14 [BT]
+
+category: Nymph
+
+hook: TMC 100BL #14.
+
+thread: (Fluorescent) Green, Danville 210 Denier flat waxed nylon.
+
+body: Pheasant-tail fibers.
+
+head: (Fluorescent) Green, Danville 210 Denier flat waxed nylon.
+
+vsrnish: Bug Bond UV curable resin (entire body to makle it durable)
+
+location: 
+
+---
+
+## Cased Caddis Larva (Grannom variant) #16 [BT]
+
+category: Nymph
+
+hook: TMC 100BL #16.
+
+thread: (Fluorescent) Green, Danville 210 Denier flat waxed nylon.
+
+body: Pheasant-tail fibers.
+
+head: (Fluorescent) Green, Danville 210 Denier flat waxed nylon.
+
+vsrnish: Bug Bond UV curable resin (entire body to makle it durable)
+
+location: 
+
+---
+
+## Cased Caddis Larva (Pink variant) #16 [BT]
+
+category: Nymph
+
+hook: TMC 100BL #16.
+
+thread: UNI thread Pink 8/0.
+
+body: Pheasant-tail fibers.
+
+head: UNI thread Pink 8/0.
+
+vsrnish: Bug Bond UV curable resin (entire body to makle it durable)
+
+location: tying list
 
 ---
 
@@ -1644,7 +1704,7 @@ location: SALMON2 (green)
 
 ## Catgut Green Caddis Pupa
 
-category:
+category: Nymph
 
 originator:
 
@@ -1738,9 +1798,9 @@ location: tying list
 
 ## CDC F-fly Black #16 [BT]
 
-originator: Marjan Fratnic
-
 category: Dry
+
+originator: Marjan Fratnic
 
 hook: Grey Matzo Emerger BL #16
 
@@ -1760,9 +1820,9 @@ location: DRY Leaf #4, Row 5, Left
 
 ## CDC F-fly Black (thin) #16 [BT]
 
-originator: Marjan Fratnic
-
 category: Dry
+
+originator: Marjan Fratnic
 
 hook: Grey Matzo Emerger BL #16
 
@@ -1782,9 +1842,9 @@ location: DRY Leaf #4, Row 5, Right
 
 ## CDC F-fly Bordeaux #16 [BT]
 
-originator: Marjan Fratnic
-
 category: Dry
+
+originator: Marjan Fratnic
 
 hook: Grey Matzo Emerger BL #16
 
@@ -1804,9 +1864,9 @@ location: DRY Leaf #4, Row 4, Left
 
 ## CDC F-fly Bordeaux (thin) #16 [BT]
 
-originator: Marjan Fratnic
-
 category: Dry
+
+originator: Marjan Fratnic
 
 hook: Grey Matzo Emerger BL #16
 
@@ -1826,9 +1886,9 @@ location: DRY Leaf #4, Row 4, Right
 
 ## CDC F-fly Camel #16 [BT]
 
-originator: Marjan Fratnic
-
 category: Dry
+
+originator: Marjan Fratnic
 
 hook: Grey Matzo Emerger BL #16
 
@@ -1848,9 +1908,9 @@ location: DRY Leaf #4, Row 6, Left
 
 ## CDC F-fly Camel (thin) #16 [BT]
 
-originator: Marjan Fratnic
-
 category: Dry
+
+originator: Marjan Fratnic
 
 hook: Grey Matzo Emerger BL #16
 
@@ -1870,9 +1930,9 @@ location: DRY Leaf #4, Row 6, Right
 
 ## CDC F-fly Olive #16 [BT]
 
-originator: Marjan Fratnic
-
 category: Dry
+
+originator: Marjan Fratnic
 
 hook: Grey Matzo Emerger BL #16
 
@@ -1892,9 +1952,9 @@ location: DRY Leaf #4, Row 3, Right
 
 ## CDC F-fly Olive (thin) #16 [BT]
 
-originator: Marjan Fratnic
-
 category: Dry
+
+originator: Marjan Fratnic
 
 hook: Grey Matzo Emerger BL #16
 
@@ -1914,9 +1974,9 @@ location: DRY Leaf #4, Row 3, Right
 
 ## CDC Sedge Hatcher (Baetis variant) #12 [BT]
 
-originator: Sigve Monsen
-
 category: Dry
+
+originator: Sigve Monsen
 
 hook: Grey Matzo Shrimp BL #12
 
@@ -1936,9 +1996,9 @@ location: DRY Leaf #1, Row 6, Left
 
 ## CDC Sedge Hatcher (Baetis variant) #14 [BT]
 
-originator: Sigve Monsen
-
 category: Dry
+
+originator: Sigve Monsen
 
 hook: Grey Matzo Shrimp BL #14
 
@@ -1958,9 +2018,9 @@ location: DRY Leaf #1, Row 6, Center
 
 ## CDC Sedge Hatcher (Baetis variant) #16 [BT]
 
-originator: Sigve Monsen
-
 category: Dry
+
+originator: Sigve Monsen
 
 hook: Grey Matzo Shrimp BL #16
 
@@ -1980,9 +2040,9 @@ location: DRY Leaf #1, Row 6, Right
 
 ## CDC Sedge Hatcher (Caddis Green variant) #12 [BT]
 
-originator: Sigve Monsen
-
 category: Dry
+
+originator: Sigve Monsen
 
 hook: Grey Matzo Shrimp BL #12
 
@@ -2002,9 +2062,9 @@ location: DRY Leaf #1, Row 5, Left
 
 ## CDC Sedge Hatcher (Caddis Green variant) #14 [BT]
 
-originator: Sigve Monsen
-
 category: Dry
+
+originator: Sigve Monsen
 
 hook: Grey Matzo Shrimp BL #14
 
@@ -2024,9 +2084,9 @@ location: DRY Leaf #1, Row 5, Center
 
 ## CDC Sedge Hatcher (Caddis Green variant) #16 [BT]
 
-originator: Sigve Monsen
-
 category: Dry
+
+originator: Sigve Monsen
 
 hook: Grey Matzo Shrimp BL #16
 
@@ -2086,6 +2146,50 @@ location: WET Leaf #1, Row 1, Middle
 
 ---
 
+## Chironomid Pupa #10
+
+category: Nymph
+
+hook: Pro tyers Czech nymph hook #10
+
+bead: 1/8 nickle tungsten (3.1 .. 3.2 mm)
+
+thread: UTC black 70D
+
+wire: small red
+
+body: flashabou 6989
+
+gills: white CDC puff
+
+location: tying list
+
+---
+
+## Chocolate Drop Sedge #14
+
+category: Dry fly
+
+source: [Scott Jackson](https://www.youtube.com/watch?v=ZhfNYxSeqhQ)
+
+hook: Kamasan B170 size #14
+
+thread: Uni 8/0 Dark Brown
+
+butt: Yellow seal fur mixed with Peral Lite bright
+
+body: Dark brown traditional Irish dubbing
+
+under wing: Deer hair dyed brown
+
+wing: Two CDC feathers dyed cinnamon
+
+hackle: Cock hackle dyed brown
+
+location: tying list
+
+---
+
 ## Clynelish (no tail variant) #4 [BT]
 
 category: Salmon
@@ -2114,7 +2218,7 @@ location: SALMON2 (green)
 
 ## COH! Chenille On a Hook (Fluoro Orange) #8 [BT]
 
-category: Cold saltwater fly
+category: Cold saltwater
 
 hook: TMC 100 #8
 
@@ -2128,9 +2232,45 @@ location: tying list
 
 ---
 
+## Cormorants #10
+
+hook: size 10 titan wet
+
+body: fluro green thread
+
+wing: white marabou
+
+head: black Thread
+
+varnish: Body sealed with varnish
+
+location: tying list
+
+---
+
+## Crane Fly Larva #8 
+
+hook: Kona fishing TND #8
+
+bead: Hareline 3.3 Tungsten Copper Bead
+
+thread: Semperfli 6/0 Waxed Thread Tan
+
+body: Montana fly company Trina’s Squirm Material Tan (Size Medium)
+
+rib: Fulling Mill 5x MasterClass Tippet 
+
+back: Fulling Mill Nymph Wrap Micro 2mm Translucent Earthworm 
+
+varnish: Solarez USA UV Thin Hard Formula 
+
+---
+
 ## Crazy Turbot2 (Pearl/Pink)
 
-source: https://fiskogfri.dk/pa-fluefiskeri-efter-pighvar/
+category: Salt
+
+source: [Fisk og Fri](https://fiskogfri.dk/pa-fluefiskeri-efter-pighvar/)
 
 hook: TMC811S #1 - #1/0
 
@@ -2148,9 +2288,9 @@ location: tying list
 
 ## Danish Pastry #2 [BT]
 
-originator: Martin Joergensen
-
 category: Baltic
+
+originator: Martin Joergensen
 
 hook: TMC 811S #2
 
@@ -2169,6 +2309,42 @@ head: Tan thread
 mfg: Bert Timmerman
 
 location: Groene vliegendoos
+
+---
+
+## Daysaver Baetis #18 - #24
+
+category: Nymph
+
+originator: [Brian Hilbert](https://www.youtube.com/watch?v=iHicqfFS-rc)
+
+hook: TMC 101 Size 18-24
+
+thread: Uni 8/0 Olive Dun
+
+tail: Veevus Body Quill - Tan
+
+thread: Uni 8/0 Grey
+
+wing case / legs: Flouro Fibre - Black
+
+thorax: thread
+
+resin: Solarez Bone Dry
+
+location: tying list
+
+---
+
+## Deer Hair Sedge #14, [HF]
+
+category: Dry
+
+hook: barbless #14
+
+seller: Handy Fish
+
+location: DRY, Up, Row 1-5, Column 6
 
 ---
 
@@ -2252,6 +2428,56 @@ location: Groene vliegendoos
 
 ---
 
+## Dennis the Menace Cormorants #10
+
+hook: size 10 titan wet
+
+body: black thread
+
+rib: red holo tinsel
+
+wing: black marbou tip
+
+head: red Thread
+
+varnish: Body sealed with varnish
+
+location: tying list
+
+---
+
+## Devin Olsen's Blowtorch #10-#16
+
+category: Nymph
+
+originator: Devin Olsen
+
+source: [tightlinevideo](https://www.youtube.com/watch?v=Rq_SQO-7eEw)
+
+hook: Barbless black jig hook (here a Fulling Mill 35045), sizes #10-#16.
+
+head: Copper slotted tungsten bead, 7/64-inch.
+
+weight: Lead-free round wire, .015.
+
+thread: Fluorescent Fire Orange, 8/0 or 70-denier.
+
+tag: Fluorescent Fire Orange Antron yarn.
+
+rib: Green Sulky Holoshimmer Metallic Thread.
+
+body: Peacock herl.
+
+collar: Hen-neck feather fibers.
+
+hot spot: tying thread.
+
+cement: Sally Hansen Hard As Nails.
+
+location: tying list
+
+---
+
 ## Disco Magnus #6 [BT]
 
 category: Baltic
@@ -2284,9 +2510,9 @@ location: Groene vliegendoos
 
 category: Cold saltwater fly
 
-source: https://globalflyfisher.com/pattern/doh
-
 originator: Martin Joergensen
+
+source: [GlobalFlyFisher](https://globalflyfisher.com/pattern/doh)
 
 hook: TMC 800S #8
 
@@ -2304,9 +2530,9 @@ location: tying list
 
 ## Double Legs (variant) #10 [BT]
 
-originator: Erik Andreasson
-
 category: Emerger
+
+originator: Erik Andreasson
 
 hook: TMC 100 #10
 
@@ -2384,7 +2610,7 @@ location: Albatros vliegendoos
 
 category: Baltic
 
-originator:Henrik Brangstrup
+originator: Henrik Brangstrup
 
 source: [Global Fly Fisher](https://globalflyfisher.com/patterns/autumn-fly)
 
@@ -2475,7 +2701,7 @@ location: Albatros vliegendoos
 
 ## Europea 12 #10-#16
 
-category: Dry Fly
+category: Dry
 
 originator: Tony Burnand or André Rago
 
@@ -2583,9 +2809,9 @@ location: Maxcatch, Up, Column 2
 
 ## Flash Jujubee #18
 
-originator: Charlie Craven
-
 category: Nymph
+
+originator: Charlie Craven
 
 hook: TMC 2488 #18
 
@@ -2675,23 +2901,113 @@ location: Albatros vliegendoos
 
 ---
 
-## FSE Thread Baetis (Fast,Simple,Effective)
+## Frenchie (Original)
+
+category: Nymph
+
+originator: [Lance Egan](https://www.youtube.com/watch?v=VflwO0FbT08)
+
+hook:
+
+bead: Gold bead
+
+thread: Red
+
+tail: Coq de Leon
+
+rib: copper wire
+
+body: Pheasant tail (apply some super glue on the thread base before, to make it more durable)
+
+collar: red thread with Hareline Shrimp Pink Ice dubbing
+
+location: tying list
+
+---
+
+## FSE Thread Baetis (Fast,Simple,Effective) #14 [BT]
 
 category: Nymph
 
 source: [AboutTrout](https://www.youtube.com/watch?v=V1Lc5wYu6zo)
 
-hook: TMC 100
+hook: TMC 100BL #14
 
-thread: Semper Fli Nano Silk 18/0 brown
+thread: UNI-Thread 8/0 Rust brown
+
+tail: Coq De Leon
+
+rib: UTC Soft Wire Black, #33 Small
+
+flash back: UNI-Mylar 1/69" #16 Pearl (on top of entire body and over thorax)
+
+thorax: 5 wraps with one strand of Peacock Herl
+
+location: tying list
+
+---
+
+## FSE Thread Baetis (Fast,Simple,Effective) #16 [BT]
+
+category: Nymph
+
+source: [AboutTrout](https://www.youtube.com/watch?v=V1Lc5wYu6zo)
+
+hook: TMC 100BL #16
+
+thread: UNI-Thread 8/0 Rust brown
+
+tail: Coq De Leon
+
+rib: UTC Soft Wire Black, #33 Small
+
+flash back: UNI-Mylar 1/69" #16 Pearl (on top of entire body and over thorax)
+
+thorax: 3 wraps with one strand of Peacock Herl
+
+location: tying list
+
+---
+
+## FSE Thread Baetis (Fast,Simple,Effective) #20
+
+category: Nymph
+
+source: [AboutTrout](https://www.youtube.com/watch?v=V1Lc5wYu6zo)
+
+hook: TMC 100 #20
+
+thread: Semper Fli Nano Silk 18/0 Brown
 
 tail: Coq De Leon
 
 rib: UTC Wire Brown, Small
 
-flash Back: Opal Mirage Tinsel, Small
+flash back: Opal Mirage Tinsel, Small (on top of entire body and over thorax)
 
-thorax: One Strand of Peacock Herl
+thorax: one strand of Peacock Herl
+
+location: tying list
+
+---
+
+## Gasolina Perdigon #14-#18
+
+category: Nymph
+
+source: [George Daniel](https://www.youtube.com/watch?v=dmTs1NME8Uc)
+
+hook: nymph #14-#18
+
+bead: Tungsten
+
+thread: 6/0 Light Olive
+
+body: Hends Perdigon Body Material PBM 1/32 #233
+
+UTC Hot Spot 6/0 Fluo Red UTC
+
+varnish: Nail polish
 
 location: tying list
 
@@ -2718,28 +3034,6 @@ head: Fire Orange thread
 mfg: Bert Timmerman
 
 location: WET Leaf #3, Row 1, Left
-
----
-
-## Gnatinator #18-26
-
-category: Midge emerger
-
-originator:
-
-source: [Charlie Craven](https://www.youtube.com/watch?v=Ns_v1dxMew0)
-
-hook: #18-26 Tiemco 101
-
-thread: Black Veevus 14/0
-
-shuck: Medium Gray EZ Magic Dub Hareline (pointy end)
-
-hackle: Grizzly Rooster Cape or Saddle
-
-body: 4 Peacock Herls (from the eye)
-
-location: tying list
 
 ---
 
@@ -2770,6 +3064,28 @@ head: Black thread and UV cured resin (Bugbond Lite)
 mfg: Bert Timmerman
 
 location: tying list ?
+
+---
+
+## Gnatinator #18-26
+
+category: Midge emerger
+
+originator:
+
+source: [Charlie Craven](https://www.youtube.com/watch?v=Ns_v1dxMew0)
+
+hook: #18-26 Tiemco 101
+
+thread: Black Veevus 14/0
+
+shuck: Medium Gray EZ Magic Dub Hareline (pointy end)
+
+hackle: Grizzly Rooster Cape or Saddle
+
+body: 4 Peacock Herls (from the eye)
+
+location: tying list
 
 ---
 
@@ -3073,6 +3389,34 @@ location: tying list
 
 ---
 
+## Gray & Olive Nymph #12
+
+category: Nymph
+
+originator: Ronald de Bos
+
+hook: Hends BL500-12
+
+bead: Tungsten bead gold 3.0 mm
+
+thread: Hends nanothread black 18/0
+
+rib: Hends colour wire 0.18 cwm-02
+
+rib: Mono thread 
+
+Hends pearl scudback code 20
+
+body: Hends killer dubbing code 416
+
+body: hends killer dubbing code 03
+
+hot spot: thread orange
+
+location: tying list
+
+---
+
 ## Gray Marlow #8 [BT]
 
 category: Wet
@@ -3231,9 +3575,9 @@ location: NYMPH Leaf #1, Row 3, Right
 
 ## Green Blowtorch #16
 
-source: [TCO Fly Shop](https://www.tcoflyfishing.com/blogs/connect/how-to-tie-a-green-blowtorch)
-
 category: Nymph
+
+source: [TCO Fly Shop](https://www.tcoflyfishing.com/blogs/connect/how-to-tie-a-green-blowtorch)
 
 hook: Fulling Mill Jig Force # 16 
 
@@ -3259,7 +3603,7 @@ location: tying list
 
 ## Green Butt CDC & Elk #12-#16
 
-category: Dry Fly
+category: Dry
 
 originator: Hans Weilenmann
 
@@ -3361,7 +3705,7 @@ location: NYMPH Leaf #3, Row 1, Middle
 
 ---
 
-## Green Tag (Green Bead) #14 [??]
+## Green Tag (Green Bead) #14 [HS]
 
 category: Nymph
 
@@ -3383,7 +3727,7 @@ location: NYMPH Leaf #3, Row 1, Left-midden
 
 category: Nymph
 
-hook Grey Matzo Dry fly BL #14
+hook: Grey Matzo Dry fly BL #14
 
 weight: Fluo Green 2,0 mm Tungsten
 
@@ -3553,7 +3897,7 @@ thorax: Grizzly hackle
 
 seller: Henk Peeters
 
-location: DRY Leaf #1, Row 2, Left
+location: Guideline, Up, Row 1-6, Column 1
 
 ---
 
@@ -3573,7 +3917,7 @@ thorax: Grizzly hackle
 
 seller: Henk Peeters
 
-location: DRY Leaf #1, Row 2, Right
+location: Guideline, Up, Row 1-6, Column 2
 
 ---
 
@@ -3647,6 +3991,32 @@ location: Groene vliegendoos
 
 ---
 
+## Hairwing Mayfly (Light Olive variant) #8 [BT]
+
+category: Dry
+
+hook: Tiemco TMC 100BL #8
+
+thread: UNI-Thread Light Cahill 8/0
+
+tail: 5 Ringneck Pheasant tail fibres
+
+rib: Camel 8/0 Uni (folded x2)
+
+body: Davy Wotton Olive Hare Dub
+
+thorax: Davy Wotton Medium Brown Hare Dub
+
+hackle: American genetic dry fly saddle Grizzly
+
+wing: Veniard Deer Hair dyed Light Bleached Tan
+
+mfg: Bert Timmerman
+
+location: DRY, Up, Row 1-5, Column 5
+
+---
+
 ## Hairwing Mayfly (Light Olive variant) #10 [BT]
 
 category: Dry
@@ -3669,7 +4039,7 @@ wing: Veniard Deer Hair dyed Light Bleached Tan
 
 mfg: Bert Timmerman
 
-location: DRY Leaf #4, Row 2, Left
+location: DRY, Up , Row 6-10, Column 5
 
 ---
 
@@ -3726,6 +4096,26 @@ head: thread
 cement: Solaris Bone Dry UV resin
 
 location: tying list
+
+---
+
+## Hare's-Ear Nymph #10-#18
+
+hook: 1X- or 2X-long nymph hook, sizes 18 to 10.
+
+weight: tungsten powder mix uv resin
+
+thread: brown  8/0 (70 denier).
+
+tail: Guard hairs from a hare's mask.
+
+abdomen: Light tan hare's-mask
+
+rib: metálic Gold tinsel.
+
+thorax: Dark brown hare's-mask 
+
+wing case: pheasant
 
 ---
 
@@ -3793,9 +4183,11 @@ location: tying list
 
 ## Helen's Special #8
 
-category: Salmon fly (Dollaghan and Sea-Trout patterns)
+category: Salmon
 
 source: [Scott Jackson](https://www.youtube.com/watch?v=pwaeBvx0CE0)
+
+description: Dollaghan and Sea-Trout patterns
 
 hook: Size 8 Osprey double
 
@@ -3856,6 +4248,28 @@ head: Red thread
 mfg: Bert Timmerman
 
 location: NYMPH Leaf #4, Row 1, Left
+
+---
+
+## Holo Midge #20
+
+category: Nymph
+
+hook: Togensfly 3x Heavy Scud hook #20
+
+bead: Glass small
+
+thread: Semperfli_flytying Nano Silk black
+
+body: Holo Tinsel medium pink
+
+rib: UTC Ultra Wire silver small
+
+wing: Fluoro filaments clear
+
+cement: Solarez Usa Bone Dry UV resin
+
+location: tying list
 
 ---
 
@@ -3931,7 +4345,7 @@ thorax: 1 strands Peacock herl (natural)
 
 mfg: Bert Timmerman
 
-location: JIGS, Bottom, column 2 Up
+location: Flyline, Up, row 1-5, column 4
 
 ---
 
@@ -3971,7 +4385,7 @@ thorax: Semperfli Straggle String Fluo Pink
 
 mfg: Bert Timmerman
 
-location: JIGS, Bottom, column 1, Down
+location: Flyline, Up, row 1-5, column 5
 
 ---
 
@@ -3991,7 +4405,7 @@ thorax: Semperfli Straggle String Fluo Pink
 
 mfg: Bert Timmerman
 
-location: JIGS, Bottom, column , Up
+location: Flyline, Up, row 1-6, column 6
 
 ---
 
@@ -4011,7 +4425,7 @@ body: 3 strands Peacock herl (natural)
 
 mfg: Bert Timmerman
 
-location: JIGS, Bottom, column 3, Up
+location: Flyline, Up, row 1-6, column 7
 
 ---
 
@@ -4031,7 +4445,7 @@ body: 2 strands Peacock herl (natural)
 
 mfg: Bert Timmerman
 
-location: JIGS, Top, column 3, Down
+location: Flyline, Up, row 1-6, column 8
 
 ---
 
@@ -4103,7 +4517,7 @@ location: tying list
 
 category: Nymph
 
-hook: Grey Matzo Shrimp BL #14
+hook: Grey Matzo Shrimp BL #16
 
 head: Black Tungsten bead 2.8 mm
 
@@ -4143,6 +4557,28 @@ location: tying list
 
 ---
 
+## Jigged Crazy Leg Baetis #18
+
+hook: Fulling Mill Jig Force #18
+
+bead: Semperfli 2.8 mm Tungsten Slotted Bead Mottled Tan 
+
+thread: Semperfli 12/0 Waxed Thread Tan
+
+body: Hends Body Quill BQ-10
+
+tail: Whiting Farms CDL Dark Pardo
+
+rib: Semperfli Mono Rib Small Brown 
+
+thorax: Fulling Mill Euro Nymph Body Dub Light Hares Ear 
+
+legs: Hareline Senyos Shaggy Dub Tan (barred with @sharpie Brown)
+
+varnish: Solarez USA UV Thin Hard Formula 
+
+---
+
 ## Jigged Poison Tung #16-20
 
 category: NYMPH
@@ -4167,11 +4603,11 @@ location: tying list
 
 ## Jydsk Chillimps #12-#16
 
-category: Cold saltwater fly
-
-source: https://globalflyfisher.com/pattern/doh
+category: Cold Ssaltwater
 
 originator: Rolf Vilhelmsson (Martin Joergensen)
+
+source: [GlobalFlyFisher](https://globalflyfisher.com/pattern/doh)
 
 hook: #12-#16 down eye streamer/wet fly
 
@@ -4218,7 +4654,11 @@ location: tying list
 ---
 ## Klympen (variant) #6 [BT]
 
-category: Baltic
+category: Cold Saltwater
+
+originator: Henning Eskol
+
+source: [GlobalFlyFisher](https://globalflyfisher.com/pattern/klympen)
 
 hook: TMC 9394 #6
 
@@ -4335,6 +4775,30 @@ location: Albatros vliegendoos
 
 ---
 
+## Manhattan Midge #18-#22
+
+categorie: Nymph
+
+originator: Forrest Dorsey
+
+hook: Ahrex 511 #18-#20 or Tiemco TMC 2488 #18-#22
+
+bead: Killer Caddis glass bead
+
+thread: Black 8/0
+
+rib: Copper small
+
+body: thread
+
+wing: Glamour Madeira no 8 (Prism White)
+
+thorax: Peacock herl
+
+location: tying list
+
+---
+
 ## March Brown Emerger #14
 
 category: Dry
@@ -4359,9 +4823,11 @@ location: tying list
 
 ## Martin's Mundane Crazy Dane (GP variant) #6 [BT]
 
+category: Warm Saltwater
+
 originator: Martin Joergensen
 
-category: Baltic
+source: [GlobalFlyFisher](https://globalflyfisher.com/pattern/martins-mundane-crazy-dane)
 
 hook: TMC 9394 #6
 
@@ -4381,9 +4847,11 @@ location: Groene vliegendoos
 
 ## Martin's Mundane Crazy Dane (PH variant) #6 [BT]
 
+category: Warm Saltwater
+
 originator: Martin Joergensen
 
-category: Baltic
+source: [GlobalFlyFisher](https://globalflyfisher.com/pattern/martins-mundane-crazy-dane)
 
 hook: TMC 9394 #6
 
@@ -4547,7 +5015,9 @@ location: tying list
 
 ## Mini Evil Baitfish #2
 
-source: https://fiskogfri.dk/pa-fluefiskeri-efter-pighvar/
+category: Salt
+
+source: [Fisk og Fri](https://fiskogfri.dk/pa-fluefiskeri-efter-pighvar/)
 
 hook: TMC 800S #2
 
@@ -4587,6 +5057,32 @@ location: tying list
 
 ---
 
+## Moody Blue #4-#10
+
+category: Salmon
+
+source: Savage Flies
+
+hook: #4-10 salmon
+
+thread: Black
+
+rib: Silver oval tinsel
+
+body: Black floss
+
+thorax: Blue synthetic dubbing
+
+hackle: Blue then purple
+
+head: black
+
+cement:
+
+location: tying list
+
+---
+
 ## Mustard Green Drake Emerger #14
 
 category: Emerger
@@ -4613,9 +5109,9 @@ location: tying list
 
 ## Natte Patrick #8 [BT]
 
-originator: Patrick Bol
-
 category: Wet
+
+originator: Patrick Bol
 
 source: De Nederlandse Vliegvisser #144 page 14
 
@@ -4635,9 +5131,9 @@ location: tying list
 
 ## Neep #8
 
-originator: Paul Marshall and Gene Young
-
 category: Salmon
+
+originator: Paul Marshall and Gene Young
 
 source: [Scott Jackson](https://www.youtube.com/watch?v=_UNeSkW2TRI)
 
@@ -4659,11 +5155,11 @@ throat: Hen hackle fibres dyed brown
 
 ## New Season Buzzer #14-#16
 
+category: Buzzer
+
 originator:
 
 source: [Makflies](https://www.youtube.com/watch?v=2yeduFVySM0)
-
-category: Buzzer
 
 hook: Grub #14 - #16
 
@@ -4685,9 +5181,9 @@ location: tying list
 
 ## No See Um Midge #18
 
-source: [Barry Ord Clark](https://www.youtube.com/watch?v=ZnV8nsO0VOY)
-
 category: Dry
+
+source: [Barry Ord Clark](https://www.youtube.com/watch?v=ZnV8nsO0VOY)
 
 hook: Mustad Heritage R30 # 18 or smaller
 
@@ -4707,9 +5203,9 @@ location: tying list
 
 ## No See Um Midge #22
 
-source: [Morgan Nowels Fishing](https://www.youtube.com/watch?v=mxpmOANhg9U)
-
 category: Dry
+
+source: [Morgan Nowels Fishing](https://www.youtube.com/watch?v=mxpmOANhg9U)
 
 hook: Daiichi 1110 #22
 
@@ -4731,9 +5227,9 @@ location: tying list
 
 ## October Caddis
 
-originator: unknown
-
 category: Dry
+
+originator: unknown
 
 hook: #8 - 12 Dry Fly (straight or curved)
 
@@ -4756,6 +5252,8 @@ location: tying list
 ---
 
 ## October Caddis (SJ) #12
+
+category: Nymph
 
 source: Shota Jokhadze
 
@@ -4843,7 +5341,33 @@ hackle: Brown hen
 
 seller: Henk Peeters
 
-location: DRY Leaf #1, Row 3, Right
+location: Guideline, Up, Row 1-6, Column 3
+
+---
+
+## Olive Teal and Silver #10
+
+category: Wet
+
+source: [Scott Jackson](https://www.youtube.com/watch?v=dfRZM0fSXSE)
+
+hook: Kamasan B175 #10
+ 
+thread: Uni 8/0 Red 
+
+tail: Glo bright floss No12 with Teal dyed olive on top 
+
+rib: Silver wire 
+
+body: Silver Holographic tinsel 
+
+body hackle: Grizzle dyed olive 
+
+front hackle: Grouse 
+
+wing: Black micro flash then Teal dyed olive 
+
+location: tying list
 
 ---
 
@@ -4909,7 +5433,53 @@ location: NYMPH Leaf #2, Row 5, Right
 
 ## Olive Straggle String Jig Nymph (Tungsten Gold Bead 3.5 mm) #10 [BT]
 
+category: Nymph
+
 hook: TMC403 BLJ #10
+
+bead: Hends Tungsten Gold Bead 3.5 mm
+
+thread: UTC Olive 8/0
+
+rib: UNI-Wire black small
+
+body: UNI-Floss Olive
+
+thorax: Semperfli Straggle String Peacock Green
+
+mfg: Bert Timmerman
+
+location: Flyline, Up, Row 1-, Column 9
+
+---
+
+## Olive Straggle String Jig Nymph (Tungsten Gold Bead 3.5 mm) #12 [BT]
+
+category: Nymph
+
+hook: TMC403 BLJ #12
+
+bead: Hends Tungsten Gold Bead 3.5 mm
+
+thread: UTC Olive 8/0
+
+rib: UNI-Wire black small
+
+body: UNI-Floss Olive
+
+thorax: Semperfli Straggle String Peacock Green
+
+mfg: Bert Timmerman
+
+location: Flyline, Up, Row 1-5, Column 10
+
+---
+
+## Olive Straggle String Jig Nymph (Tungsten Gold Bead 3.5 mm) #14 [BT]
+
+category: Nymph
+
+hook: TMC403 BLJ #14
 
 bead: Hends Tungsten Gold Bead 3.5 mm
 
@@ -4927,9 +5497,11 @@ location: tying list
 
 ---
 
-## Olive Straggle String Jig Nymph (Tungsten Gold Bead 3.5) #12 [BT]
+## Olive Straggle String Jig Nymph (Tungsten Gold Bead 3.5 mm) #16 [BT]
 
-hook: TMC403 BLJ #12
+category: Nymph
+
+hook: TMC403 BLJ #16
 
 bead: Hends Tungsten Gold Bead 3.5 mm
 
@@ -4943,11 +5515,13 @@ thorax: Semperfli Straggle String Peacock Green
 
 mfg: Bert Timmerman
 
-location: JIGS, Top, Column 2, Up
+location: Flyline, Up, Row 1-6, Column 11
 
 ---
 
 ## Olive Straggle String Nymph #10 [BT]
+
+category: Nymph
 
 hook: Grey Matzo Shrimp BL #10
 
@@ -4961,72 +5535,33 @@ thorax: Semperfli Straggle String Peacock Green
 
 mfg: Bert Timmerman
 
-location: tied
-
----
-## Olive Zebra Midge Pupa (Black Bead) #14 [BT]
-
-category: Nymph
-
-hook: Grey Matzo Shrimp BL #14
-
-head: Black bead
-
-thread: UNI-Thread Olive 8/0
-
-rib: Silver Oval tinsel
-
-body: Olive thread
-
-thorax: Peacock herl
-
-mfg: Bert Timmerman
-
-location: Maxcatch, Down, Column 6
+location: Flyline Jigs, Up, row 1-5, column 9 
 
 ---
 
-## Olive Zebra Midge Pupa (Gold Bead) #14 [BT]
+## Olsen's Improved Blowtorch
 
 category: Nymph
 
-hook: Grey Matzo Shrimp BL #14
+originator: Devin Olsen
 
-head: Gold bead
+source: [Old Dominion Trout Bum](https://www.youtube.com/watch?v=9lZJdMTt65A)
 
-thread: UNI-Thread Olive 8/0
+hook: Hanak 400
 
-rib: Silver Oval tinsel
+bead: Copper Tungsten
 
-body: thread
+thread: UTC 70 Red
 
-thorax: Peacock herl
+tail:  Glo-Brite #5
 
-mfg: Bert Timmerman
+dubbing: Sybai Fine Diamond Dark Peacock and Hareline UV pink Ice Dub
 
-location: Maxcatch, Down, Column 4
+rib: UTC ultra wire small Red
 
----
+hackle: Dark grey Khaki (but any Brown will do)
 
-## Olive Zebra Midge Pupa (Yellow Bead) #14 [BT]
-
-category: Nymph
-
-hook: Grey Matzo Shrimp BL #14
-
-head: Yellow fluo bead
-
-thread: UNI-Thread Olive 8/0
-
-rib: Silver Oval tinsel
-
-body: thread
-
-thorax: Peacock herl
-
-mfg: Bert Timmerman
-
-location: Maxcatch, Down, Column 5
+location: tying list
 
 ---
 
@@ -5092,7 +5627,7 @@ location: NYMPH Leaf #2, Row 1, Right
 
 category: Salmon
 
-hook: TMC 7999 #6.
+hook: TMC 7999 #6
 
 thread: UNI-Thread Fire Orange 8/0.
 
@@ -5218,9 +5753,9 @@ location: tying list
 
 ## Peacock and Black (Chinese Red variant) #8 [BT]
 
-source: [Scott Jackson](https://www.youtube.com/watch?v=ytE0Kgi_XFI)
-
 category: Wet
+
+source: [Scott Jackson](https://www.youtube.com/watch?v=ytE0Kgi_XFI)
 
 hook: TMC-100 SP-BL size 8
 
@@ -5244,9 +5779,9 @@ location: Wet fly box ?
 
 ## Peacock and Black (Neon Chartreuse variant) #8 [BT]
 
-source: [Scott Jackson](https://www.youtube.com/watch?v=ytE0Kgi_XFI)
-
 category: Wet
+
+source: [Scott Jackson](https://www.youtube.com/watch?v=ytE0Kgi_XFI)
 
 hook: TMC-100 SP-BL size 8
 
@@ -5284,9 +5819,37 @@ location: NYMPH Leaf #2, Row 5, Left
 
 ---
 
+## Perdigon BQ03 #12, [BT]
+
+category: nymph
+
+hook: TMC 403BLJ #12
+
+bead: Veniard Silver tungsten bead 3.3 mm
+
+thread: UNI-Thread Fire Orange W8/0
+
+tail: Whiting Cock de Leon Grizzly Pardo
+
+tag: UNI-Thread Fire Orange W8/0
+
+body: Hends Body Quill BQ03
+
+hotspot: UNI-Thread Fire Orange W8/0
+
+body: Bugbond UV curable resin
+
+thorax: Black Sharpie permanent marker
+
+varnish: Bugbond UV curable resin
+
+location:
+
+---
+
 ## Pheasant Tail CDC Midge #16
 
-category: DRY
+category: Dry
 
 originator:
 
@@ -5398,9 +5961,9 @@ location: NYMPH Leaf #1, Row 6, Left
 
 ## Phil White's Adult Midge #14 [BT]
 
-originator: Phil White
-
 category: Dry
+
+originator: Phil White
 
 hook: TMC 100SP-BL #14
 
@@ -5422,9 +5985,9 @@ location: DRY Leaf #4, Row 1, Left
 
 ## Phil White's Adult Midge #16 [BT]
 
-originator: Phil White
-
 category: Dry
+
+originator: Phil White
 
 hook: TMC 100SP-BL #16
 
@@ -5446,9 +6009,9 @@ location: DRY Leaf #4, Row 1, Middle
 
 ## Phil White's Adult Midge #18 [BT]
 
-originator: Phil White
-
 category: Dry
+
+originator: Phil White
 
 hook: TMC 100BL #18
 
@@ -5468,23 +6031,54 @@ location: DRY Leaf #4, Row 1, Right
 
 ---
 
-## Poison Tung #16
+## Picket Pin
 
-originator: Charlie Craven
+category: Dry
+
+originator:
+
+source: straight from the pages of Family Circle's Guide to Trout Flies and How to Tie Them by Raymond R. Camp.
+
+tip: for this pattern, use hair near the base of the tail to get that perfect mix of browns,
+avoiding too much white or black (though the fish might not mind).
+
+hook: Dai-Riki 730
+
+thread: Semperfli Fly Tying Classic Waxed Thread 8/0 (Black)
+
+tail: Sideling Hill Hackle Rooster Cape (Brown)
+
+rib: UTC Ultra Wire (Copper)
+
+body: Hareline Peacock Eyed Sticks
+
+hackle (Palmered): Sideling Hill Hackle Rooster Cape (Brown)
+
+wings: Squirrel Tail, Gray (Natural)
+
+head: Hareline Peacock Eyed Sticks
+
+location: tying list
+
+---
+
+## Poison Tung #16
 
 category: Nymph
 
-Hook: TMC 2487 or 2488 #16
+originator: Charlie Craven
 
-Bead: 2mm Silver Tungsten Bead
+hook: TMC 2487 or 2488 #16
 
-Thread: Uni-thread, Gray
+bead: 2mm Silver Tungsten Bead
 
-Rib: Blue Lagartun or UTC Wire, Fine/SM
+thread: Uni-thread, Gray
 
-Body: Tying Thread
+rib: Blue Lagartun or UTC Wire, Fine/SM
 
-Head: Ice Dub, Uv Gray Or Lavender
+body: Tying Thread
+
+head: Ice Dub, Uv Gray Or Lavender
 
 mfg: Bert Timmerman
 
@@ -5534,9 +6128,9 @@ location: Albatros vliegendoos
 
 ## Purple and Orange Shrimp
 
-originator : [Scott Jackson](https://www.youtube.com/watch?v=aRyMKORAASQ)
-
 category: Salmon
+
+originator : [Scott Jackson](https://www.youtube.com/watch?v=aRyMKORAASQ)
 
 hook: Double size 10
 
@@ -5562,7 +6156,7 @@ location: tying list
 
 category: Salmon
 
-hook: Salmon haak #4
+hook: Salmon hook #4
 
 thread: Orange
 
@@ -5832,6 +6426,48 @@ location: DRY Leaf #2, Row 2, Right
 
 ---
 
+## Quill Buzzer #12
+
+hook: Size 12 titan barbless buzzer 
+
+thread: Black Thread
+
+body: Stripped peacock herl 
+
+thorax: Goose biots
+
+varnish: Few coats of thin varnish to seal
+
+location: tying list
+
+---
+
+## Rainbow Warrior #14-#18
+
+category: Nymph
+
+originator: Brian Smith
+
+source: [J Stockard Fly](https://www.jsflyfishing.com/blogs/fom/jigged-rainbow-warrior-fly-of-the-month)
+
+hook: Ahrex Hooks FW555 size 14-18
+
+bead: Hareline 1/8in / 3.3mm, Gold
+
+thread: Veevus 14/0 Black
+
+tail: Ringneck Pheasant Natural
+
+abdomen: Veevus Pearl Tinsel, Small
+
+thorax: Wapsi Sow Scud Dubbing, Rainbow
+
+resin: Solarez Bone Dry, Ultra Dry Thin
+
+location: tying list
+
+---
+
 ## Reaper Midge (Purple) #14-#20
 
 category:
@@ -5948,6 +6584,26 @@ location: Maxcatch, Up, Column 7
 
 ---
 
+## Red Body Quill buzzer (Gold Bead) #14 [BT]
+
+category: Nymph
+
+hook: Grey Matzo Shrimp BL #14
+
+weight: Gold Bead 2.4 mm Brass
+
+thread: UNI-Thread Red 8/0
+
+body: tying thread and Hends Body Quills 1/69 BQ-08
+
+varnish: Bug-Bond Lite UV Curing Resin (2 layers)
+
+mfg: Bert Timmerman
+
+location: Tying list
+
+---
+
 ## Red Copper Jig Nymph (Black Tungsten Bead 2.8) #14 [BT]
 
 category: Nymph
@@ -5968,7 +6624,7 @@ thorax: Peacock Herl
 
 collar: UNI-Thread Red 6/0
 
-location: JIGS, Top, Column 5, Down
+location: 
 
 ---
 
@@ -5992,7 +6648,7 @@ thorax: Peacock Herl
 
 collar: UNI-Thread Red 6/0
 
-location: JIGS, Top, Column 2, Down
+location: 
 
 ---
 
@@ -6130,7 +6786,7 @@ location: NYMPH Leaf #4, Row 2, Left
 
 ---
 
-## Red Tag Jig Nymph (Black Tungsten Bead 2.8) #12 [BT]
+## Red Tag Jig Nymph (Black Tungsten Bead 2.8 mm) #12 [BT]
 
 category: Nymph
 
@@ -6146,11 +6802,11 @@ body: 3 strands Peacock herl (natural)
 
 mfg: Bert Timmerman
 
-location: JIGS, Bottom, column 1, Down
+location: Flyline, Down, Row 1-5, Column 1
 
 ---
 
-## Red Tag Jig Nymph (Black Tungsten Bead 2.4) #14 [BT]
+## Red Tag Jig Nymph (Black Tungsten Bead 2.4 mm) #14 [BT]
 
 category: Nymph
 
@@ -6166,7 +6822,7 @@ body: 2 strands Peacock herl (natural)
 
 mfg: Bert Timmerman
 
-location: JIGS, Top, Column 1, Up
+location: Flyline, Down, Row 1-6, Column 2
 
 ---
 
@@ -6190,7 +6846,7 @@ location: tying list
 
 ---
 
-## Red Tag Jig Nymph (Gold Bead 2.4) #14 [BT]
+## Red Tag Jig Nymph (Gold Bead 2.4 mm) #14 [BT]
 
 category: Nymph
 
@@ -6206,7 +6862,7 @@ body: 2 strands Peacock herl (natural)
 
 mfg: Bert Timmerman
 
-location: JIGS, Top, Column 4, Up
+location: Flyline, Down, Row 1-6, Column 4
 
 ---
 
@@ -6226,15 +6882,15 @@ body: 2 strands Peacock herl (natural)
 
 mfg: Bert Timmerman
 
-location: JIGS, Top, Column 4 Down
+location: Flyline, Down, Row 1-2, Column 5
 
 ---
 
 ## Red Tag Once and Away #18
 
-originator: Hans van Klinken
-
 category: Emerger
+
+originator: Hans van Klinken
 
 hook: Partridge Klinkhamer GRS 15ST #18
 
@@ -6252,9 +6908,9 @@ location: tying list
 
 ## Red Tag Spider #10
 
-originator: Martin Joergensen (sort of)
+category: Wet
 
-category: Wet Fly
+originator: Martin Joergensen (sort of)
 
 hook: Wet fly down eye size 10-14
 
@@ -6267,72 +6923,6 @@ thorax: A couple of peacock herl
 hackle: Light brown hen hackle
 
 location: tying list
-
----
-
-## Red Zebra Midge Pupa (Black Bead) #14 [BT]
-
-category: Nymph
-
-hook: Grey Matzo Shrimp BL #14
-
-head: Black bead
-
-thread: UNI-Thread Red 8/0
-
-rib: Silver Oval tinsel
-
-body: Red thread
-
-thorax: Peacock herl
-
-mfg: Bert Timmerman
-
-location: Maxcatch, Up, Column 1
-
----
-
-## Red Zebra Midge Pupa (Gold Bead) #14 [BT]
-
-category: Nymph
-
-hook: Grey Matzo Shrimp BL #14
-
-head: Gold bead
-
-thread: UNI-Thread Red 8/0
-
-rib: Silver Oval tinsel
-
-body: Red thread
-
-thorax: Peacock herl
-
-mfg: Bert Timmerman
-
-location: Maxcatch, Down, Column 10
-
----
-
-## Red Zebra Midge Pupa (Yellow Bead) #14 [BT]
-
-category: Nymph
-
-hook: Grey Matzo Shrimp BL #14
-
-head: Yellow bead
-
-thread: UNI-Thread Red 8/0
-
-rib: Silver Oval tinsel
-
-body: Red thread
-
-thorax: Peacock herl
-
-mfg: Bert Timmerman
-
-location: Maxcatch, Down, Column 11
 
 ---
 
@@ -6396,7 +6986,47 @@ location: NYMPH Leaf #2, Row 3, Left
 
 ---
 
+## Renegade #16 - #18
+
+hook: Fulling Mill Ultimate Dry Fly #16 - #18
+
+tag: UTC Mirage Opal tinsel
+
+rib: Whiting midge saddle
+
+body: peackock herl
+
+tag: UTC Mirage Opal tinsel
+
+---
+
+## Rojo Midge #18
+
+category: Nymph
+
+originator: Greg Garcia
+
+hook: Togensfly Curved Nymph 2x size #18
+
+gill: Fluoro Filaments clear
+
+thread: UNI-Thread 8/0 Mahogony
+
+bead: Small red glass bead
+
+rib: Ultra wire small copper
+
+collar: Peacock herl
+
+resin: Solarez Bone Dry
+
+location: tying list
+
+---
+
 ## Roman Moser's Balloon Caddis #10
+
+category:
 
 originator: [Roman Moser](http://www.romanmoser.com)
 
@@ -6416,6 +7046,8 @@ thorax: Ginger Caddis Dubbing
 
 ## Roman Moser's Balloon Caddis #12
 
+category:
+
 originator: [Roman Moser](http://www.romanmoser.com)
 
 hook: Kamasan B170 #12
@@ -6434,9 +7066,9 @@ thorax: Ginger Caddis Dubbing
 
 ## Romy's Sand shrimp (Pink variant) #12 [BT]
 
-originator: Colin McLeod
-
 category: Nymph
+
+originator: Colin McLeod
 
 hook: Grey Matzo Shrimp fly BL #12
 
@@ -6458,9 +7090,9 @@ location: NYMPH Leaf #4, Row 5, Right
 
 ## Romy's Sand shrimp (Red-brown variant) #12 [BT]
 
-originator: Colin McLeod
-
 category: Nymph
+
+originator: Colin McLeod
 
 hook: Grey Matzo Shrimp fly BL #12
 
@@ -6480,11 +7112,73 @@ location: NYMPH Leaf #4, Row 5, Middle
 
 ---
 
-## S&D Grub Czech Nymph Chartreuse (Parrott's) #12 [BT]
-
-originator: Steve Parrott
+## Royal Blue Straggle String Jig Nymph (Tungsten Gold Bead 3.5 mm) #12 [BT]
 
 category: Nymph
+
+hook: TMC403 BLJ #12
+
+bead: Hends Tungsten Gold Bead 3.5 mm
+
+thread: UTC Black 8/0
+
+rib: UNI-Wire Gold small
+
+body: UNI-Floss Royal Blue
+
+thorax: Semperfli Straggle String Purple/Black
+
+mfg: Bert Timmerman
+
+location: Flyline, Up, Row 6-10, Column 10 
+
+---
+
+## Royal Blue Straggle String Jig Nymph (Tungsten Gold Bead 3.0 mm) #16 [BT]
+
+category: Nymph
+
+hook: TMC403 BLJ #16
+
+bead: Hends Tungsten Gold Bead 3.0 mm
+
+thread: UTC Black 8/0
+
+rib: UNI-Wire Gold small
+
+body: UNI-Floss Royal Blue
+
+thorax: Semperfli Straggle String Purple/Black
+
+mfg: Bert Timmerman
+
+location: tying list
+
+---
+
+## RS2 #20
+
+category: Dry
+
+originator: Rim Chung
+
+hook: Core C1110 size 20
+
+thread: @veevusfishing 12/0 Dun
+
+tail: Microfibetts White
+
+body: Super Fine Dry Fly Dubbing Adams Gray
+
+wing: CDC Oiler Puffs
+
+---
+
+## S&D Grub Czech Nymph Chartreuse (Parrott's) #12 [BT]
+
+category: Nymph
+
+originator: Steve Parrott
 
 hook: Grey Matzo Shrimp fly BL #12
 
@@ -6508,9 +7202,9 @@ location: NYMPH Leaf #4, Row 4, Left
 
 ## S&D Grub Czech Nymph Chartreuse (Parrott's) #14 [BT]
 
-originator: Steve Parrott
-
 category: Nymph
+
+originator: Steve Parrott
 
 hook: Grey Matzo Shrimp fly BL #14
 
@@ -6622,6 +7316,30 @@ location: Tupperware
 
 ---
 
+## Silver Blue
+
+category: Nymph
+
+originator: [Gerald König](https://www.facebook.com/profile.php?id=61572421052700)
+
+hook: HANÁK H460BL Jig Superb RS # 16
+
+bead: HANÁK Silver Tungsten Bead RS+ 3,5 mm
+
+thread: Troutline Sumo 10 Den black 
+
+tail: Gallo de Leon
+
+body: Troutline Hand Selected Peacock quill Coated with UV Resin (Olive)
+
+collar: Larva Lace Angel Hair Peacock Pearl
+
+hot spot: Troutline Grip Thread 8/0 (A3 Red)
+
+location: tying list
+
+---
+
 ## Silver Stoat #6  [BT]
 
 category: Salmon
@@ -6676,13 +7394,33 @@ location: tying list
 
 ---
 
+## Simple Midge Larva #24
+
+category: Nymph
+
+source: [tightlinevideo](https://www.youtube.com/watch?v=EHydlfUy3RA)
+
+hook: 3X-long natural-bend hook (here a Dai-Riki 270), size 24.
+
+thread/body: 8/0 or UTC 70 Denier, yellow.
+
+rib: Ultra wire, extra-small, copper. 
+
+head: Tying thread, colored with a dark brown permanent marker.
+
+varnish: Sall Hansen Hard As Nails
+
+location: tying list
+
+---
+
 ## Simple Spring Quill Trout Buzzer
+
+category: Buzzer
 
 originator:
 
 source: [Makflies](https://www.youtube.com/watch?v=9t-iCi5UDuc)
-
-category: Buzzer
 
 hook: Grub #10
 
@@ -6708,11 +7446,11 @@ location: tying list
 
 ## Small Olive CDC Jig Head Nymph
 
+category: Nymph
+
 originator:
 
 source: [Davie McPhail](https://www.youtube.com/watch?v=uZzDoujFWZ8)
-
-category: Nymph
 
 hook: Fulling Mill Jig Force size 16 or Hanak H450 BL
 
@@ -6753,6 +7491,26 @@ body: Peacock Sword Tail (3 strands)
 hackle: Light Dun Hen (1 turn)
 
 head: Peacock Sword Tail (3 strands)
+
+location: tying list
+
+---
+
+## Smoke Jumper #18
+
+category: Emerger
+
+source: [tightlinevideo](https://www.youtube.com/watch?v=V22RlVhBGIk)
+
+hook: Fulling Mill 5065 barbless Czech Nymph #18
+
+thread: UTC 70 Denier, yellow olive.
+
+rib: Ultra wire, extra-small, silver. 
+
+wing case: CDC puff, light dun.
+
+thorax: single Peacock herl.
 
 location: tying list
 
@@ -6926,6 +7684,28 @@ location: WET Leaf #1, Row 4, Middle
 
 ---
 
+## Straggle String Jig Buggers #8 - #14
+
+originator: Son of Tao
+
+category: Nymph
+
+hook: 2XL jig hook #8-14
+
+bead: match hook
+
+thread:
+
+tail: marabou
+
+body: Semperfli Straggles String
+
+collar: soft hackle
+
+location: tying list
+
+---
+
 ## Stoats Tail #12 [BT]
 
 category: Wet
@@ -6969,6 +7749,34 @@ hackle: Grizzly Rooster Neck
 thorax: Peacock Herl
 
 location: tying list
+
+---
+
+## Sulphur Perdigon #14
+
+category: Nymph
+
+source: [tightlinevideo](https://www.youtube.com/watch?v=GGEP5eEwGcI)
+
+hook: Barbless jig hook (here, a Lightning Strike JF2), size 14. 
+
+bead: Gold slotted tungsten bead, 7/64-inch. 
+
+weight: Lead-free round wire, 0.020". 
+
+thread/underbody: Yellow, 8/0 or 70-denier. 
+
+tails: Wood-duck flank feather fibers. 
+
+rib: Gold Ultra Wire, small.  
+
+body: Golden brown Antron yarn. 
+
+Wingcase: Black UV-cure resin (here, Solarez). 
+
+varnish: Solarez Bone dry transparent UV curable resin.
+
+location: tyinglist
 
 ---
 
@@ -7146,6 +7954,26 @@ location: tying list
 
 ---
 
+## Tactical Quill # 18
+
+category: Nymph
+
+source: Helmut Glowa@facebook
+
+hook: Hends BL 124 # 18 
+
+bead: Gold/Pink or Copper 3,5 mm
+
+tail: CDL Pardo 
+
+body: Polish Quills - Golden Olive 
+
+dubbing: Peacock Brown
+
+location: tying list
+
+---
+
 ## Talisker Touchdown (variant) #8 [BT]
 
 originator: Martin Joergensen/Henning Eskol
@@ -7236,6 +8064,55 @@ location: Albatros vliegendoos
 
 ---
 
+## Tax Man Caddis Larva #16
+
+category: Nymph
+
+source: [Hopper Juan Ramirez](https://www.youtube.com/watch?v=NTussVFjTqw)
+
+hook: Ahrex FW531 #16
+
+bead: 2.4 mm Black Tungsten
+
+weight: Lead 0.020"
+
+underbody: Uni-Stretch, White
+
+thread: Veevus GSP 30D, Black
+
+body: Hareline Standard Hollow Tubing, Light Olive
+
+marker #1: Marigold Sharpie
+
+marker #2: Brown Sharpie
+
+wingcase: Brown Hen Hackle 
+
+dubbing: Fulling Mill Euro Nymph Thorax Dubbing, Dark Mottled
+
+location: tying list
+
+---
+
+## Tav's Big Mac #22
+
+category: Nymph
+
+source: [AboutTrout](https://www.youtube.com/watch?v=cSzcILBSzLk)
+
+hook: TMC 200R #22
+
+thread: Semper Fli Nano Silk 18/0 Brown
+
+rib: Micro Tubing Brown
+
+resin: Solar EZ Bone Dry
+
+head: Black Superfine Dubbing
+
+location: tying list
+
+---
 ## Teal Blue and Silver #4 [BT]
 
 category: Salmon
@@ -7362,7 +8239,7 @@ location: tying list
 
 ## The Bredbo Fly #12
 
-category: Wet fly
+category: Wet
 
 originator:
 
@@ -7413,6 +8290,102 @@ thorax: UV2 Seal X-dubbing Golden Stone
 hackle: Ringneck Gold Pheasant (lower) feather
 
 mfg: Bert Timmerman
+
+location: tying list
+
+---
+
+## The Ghost Case Crave Baetis #18
+
+hook: Daiich 1270 #18
+
+thread: Semperfli 12/0 Waxed Thread Drk. Mocha Brown 
+
+tail: Whitingfarms CDL Dark Pardo 
+
+rib: Semperfli Monk Rib Brown Small 
+
+body: Hends Body Quill BQ-10
+
+wing case / legs: Just Add H2O Fluoro Fibre Brown 
+
+body varnish: Solarez USA UV Thin Hard Formula 
+
+wing Case: Gulff flyfishing Fl. White 
+
+---
+
+## The Knuckle Breaker Caddis #16
+
+hook: Fulling Mill 1710 Nymph Special #16 
+
+bead: Fulling Mill 2.4 mm Tungsten Bead Metallic Brown 
+
+thread: Ties flies 52D Nylon Thread Champagne 
+
+body: Ties flies Micro Chenille Two-Tone Camel & Olive 
+
+thorax / legs: Fulling Mill Euro Nymph Thorax Dub Dark Brown 
+
+---
+
+## Thread Frenchie (Black) #16
+
+category: Nymph
+
+originator: [Lance Egan](https://www.flyfishfood.com/blogs/euro-nymph-tutorials/egan-s-black-thread-frenchie)
+
+hook: Umpqua XC400BL-BN #16
+
+hook (alternate): Hanak H 400 BL Jig Hook #16
+
+bead: Firehole Stones Plated Slotted Tungsten Beads - 3.0mm (1/8") - Sterling Silver
+
+bead (alternate): Hareline Slotted Tungsten Beads - Classic Colors - 7/64" (2.8mm) - Silver
+
+thread: UTC Ultrathread 70 Denier - Black
+
+thread (alternate): Semperfli Classic Waxed Thread - 12/0 - Black
+
+tail: Spanish Coq De Leon - Pardo
+
+rib: Semperfli Tying Wire - 0.2 - March Brown
+
+rib (alternate): Hends Color Wire - 0.18 diameter - Light Brown (10)
+
+coating: Solarez UV Cure Resin - Bone Dry .5 Oz
+
+coating (alternate): Loon UV Clear Fly Finish - Flow
+
+collar: Hends Spectra Dubbing - Fl. Orange
+
+collar (alternate): Ice Dub - UV Hot Orange
+
+location: tying list
+
+---
+
+## Thread Frenchie (Olive) #16
+
+category: Nymph
+
+originator: [Lance Egan](https://www.flyfishfood.com/blogs/euro-nymph-tutorials/thread-frenchie)
+
+hook: Umpqua XC400BL-BN #16
+
+hook (alt): Hanak H 400 BL Jig Hook #16
+
+bead: Hareline Slotted Tungsten Beads - Gold - 3/32" (2.3mm)
+
+thread: UTC Ultrathread 70 Denier - Olive
+
+tail: Whiting Coq De Leon Euro Nymph Tailing Pack - Dark Pardo
+
+ribbing: Semperfli Tying Wire - 0.2 - March Brown
+
+hot spot: Ice Dub - UV Pink
+
+coating: Loon UV Clear Fly Finish - Flow
 
 location: tying list
 
@@ -7570,6 +8543,34 @@ location: tying list
 
 ---
 
+## Top Secret Baetis #16 - #22
+
+category: Nymph
+
+originator:
+
+source: [Charlie Craven](https://www.youtube.com/watch?v=6OIB_X-O1t8)
+
+hook: Tiemco 2488 #16 - #22
+
+thread: Olive Brown Danville 6/0
+
+tail: Partridge
+
+rib: Black Small Wire
+
+body: Olive Brown Danville 6/0
+
+thorax: Olive Brown Superfine Dubbing
+
+casing: Light Dun Medallion Sheeting
+
+legs: Partridge
+
+location: tying list
+
+---
+
 ## Top Secret Midge
 
 category: Midge
@@ -7578,7 +8579,7 @@ originator: Pat Dorsey
 
 source: [Charlie Craven](https://www.youtube.com/watch?v=0wSZU1iBkQs)
 
-hook: TMC 2488 #18-24
+hook: TMC 2488 #18 - #24
 
 thread: Dark Brown UNI 8/0
 
@@ -7587,6 +8588,28 @@ rib: White UNI 6/0
 wing: Glamour Madeira 
 
 head: Mahogany Brown Superfine Dubbing
+
+location: tying list
+
+---
+
+## Traffic Light buzzer Orange #10 [BT]
+
+category: Nymph
+
+hook: Grey Matzo Shrimp BL #10
+
+thread: UNI-Thread Black 8/0
+
+body: tying thread
+
+rib: Silver flat tinsel small
+
+thorax: Orange Goose biots (Veniard)
+
+varnish: Bug-Bond Lite UV Curing Resin (2 layers)
+
+mfg: Bert Timmerman
 
 location: tying list
 
@@ -7610,7 +8633,29 @@ varnish: Bug-Bond Lite UV Curing Resin (2 layers)
 
 mfg: Bert Timmerman
 
-location: BUZZER
+location: Buzzers Barbless (A. Jensen), Row 8-12, Column 2
+
+---
+
+## Traffic Light buzzer Orange #14 [BT]
+
+category: Nymph
+
+hook: Grey Matzo Shrimp BL #14
+
+thread: UNI-Thread Black 8/0
+
+body: tying thread
+
+rib: Silver flat tinsel small
+
+thorax: Orange Goose biots (Veniard)
+
+varnish: Bug-Bond Lite UV Curing Resin (2 layers)
+
+mfg: Bert Timmerman
+
+location: tying list
 
 ---
 
@@ -7632,7 +8677,7 @@ varnish: Bug-Bond Lite UV Curing Resin (2 layers)
 
 mfg: Bert Timmerman
 
-location: BUZZER
+location: Buzzers Barbless (A. Jensen), Row 1-3, Column 1
 
 ---
 
@@ -7654,10 +8699,31 @@ varnish: Bug-Bond Lite UV Curing Resin (2 layers)
 
 mfg: Bert Timmerman
 
-location: BUZZER
+location: Buzzers Barbless (A. Jensen), Row 1-3, Column 1
 
 ---
 
+## Traffic Light buzzer Yellow #14 [BT]
+
+category: Nymph
+
+hook: Grey Matzo Shrimp BL #14
+
+thread: UNI-Thread Black 8/0
+
+body: tying thread
+
+rib: Silver flat tinsel small
+
+thorax: Yellow Goose biots (Veniard)
+
+varnish: Bug-Bond Lite UV Curing Resin (2 layers)
+
+mfg: Bert Timmerman
+
+location: tying list
+
+---
 ## Triple Wing Spinner
 
 category: Dry
@@ -7706,6 +8772,62 @@ location: tying list
 
 ---
 
+## Tungsten Rainbow Dart #12-#16
+
+category: Nymph
+
+originator: Detailed instructions for tying a mash-up of Lance Egan flies called the Tungsten Rainbow Dart.
+
+source: [tightline video](https://www.youtube.com/watch?v=hECTXm5xaTY)
+
+hook: Barbless jig hook (here, a Lightning Strike JF2), sizes #12-#16. 
+
+bead: Silver slotted tungsten bead, 7/64-inch. 
+
+weight: Lead-free round wire, .015. 
+
+thread: Red, 8/0 or 70-denier. 
+
+rib: Silver Ultra Wire, small. 
+
+tail: Red saddle-hackle fibers.
+
+abdomen: Rainbow Sow-Scud Dubbing. 
+
+wingcase: Opal Mirage Tinsel. 
+
+thorax: Peacock herl + a blob of Solarez UV curable resin.
+
+location: tying list
+
+---
+
+## Tungsten Torpedo #12
+
+category: Nymph
+
+originator: Kevin Compton
+
+source: [tightlinevideo](https://www.youtube.com/watch?v=j8liL68lifU)
+
+hook: Barbless wet-fly/nymph hook (here a Hanak H230BL), size #12.
+
+bead: Tungsten, 3.2mm, gold.
+
+thread: Benecchi 12/0, olive.
+
+tail: Medium Pardo Coq de Leon, 4-5 fibers.
+
+rib: Wire, .004-inch, gold.
+
+abdomen: Sulky Silver Metallic thread, black.
+
+collar: Jan Siman peacock dubbing.
+
+location: tying list
+
+---
+
 ## Twist of Lemon
 
 category: Steelhead
@@ -7749,6 +8871,20 @@ hackle: Pheasant rump
 wing: Black Bucktail
 
 mfg: Bert Timmerman
+
+location: tying list
+
+---
+
+## Vicars Buzzer #14
+
+hook: size 14 titan wet
+
+thread: Black thread
+
+collar: silver tinsel
+
+varnish: few coats of thin varnish to seal
 
 location: tying list
 
@@ -7836,7 +8972,7 @@ location: tying list
 
 ## WF172 Partridge and Orange variant #12
 
-category: Wet Fly
+category: Wet
 
 source: Marten Staal
 
@@ -7856,7 +8992,7 @@ location: tying list
 
 ## WF173  #12
 
-category: Wet Fly
+category: Wet
 
 source: Marten Staal
 
@@ -7886,7 +9022,7 @@ location: tbd
 
 ## White Moth
 
-category: Dry Fly
+category: Dry
 
 hook: #12 - 18 dry fly
 
@@ -7925,28 +9061,6 @@ body: Peacock herl
 mfg: Bert Timmerman
 
 location: NYMPH Leaf #2, Row 2, Left
-
----
-
-## White Zebra Nymph (Black Tungsten Bead 2.8 mm) #12 [BT]
-
-category: Nymph
-
-hook: Grey Matzo Shrimp BL #12
-
-head: Black Tungsten bead 2.8 mm
-
-thread: UNI-Thread White 8/0
-
-rib: Silver Oval tinsel
-
-body: White Floss 600 1-ply
-
-varnish: 2 layers head cement
-
-mfg: Bert Timmerman
-
-location: NYMPH #12, Up, Column 2
 
 ---
 
@@ -8212,7 +9326,7 @@ location: tying list
 
 originator: Craig Matthew and John Juracek
 
-category: dry fly
+category: Dry
 
 hook: #12 - 18 dry fly
 
@@ -8234,7 +9348,7 @@ location: tying list
 
 ## X-Caddis (variant)
 
-category: Dry fly
+category: Dry
 
 source: Thomas Sneen @ FB Fly Tying Only
 
@@ -8496,7 +9610,315 @@ location: Tupperware
 
 ---
 
-## Yellow Zebra Nymph (Black Tungsten Bead 2.8 mm) #12 [BT]
+## Yellow Swimming Baetis #14 - #18
+
+hook: Demmon Supreme N300 BL size 14-18
+
+thread: Yellow Champion Micro Split Thread
+
+tail: I use seal guard fur but any type of guard fur works  (nutria, hare, muskrat or opossum)
+
+body: Yellow Champion Micro Split Thread
+
+rib: Perdigon Body Thread brown twisted and waxed
+
+thorax: Yellow thread with neutral CDC fixed using split technique
+
+back Thorax: multiple strands of Perdigon Body Thread brown and Troutline UV resin
+
+cement: UV resin
+
+location: tying list
+
+---
+
+## Zebra Midge Pupa (Black variant, Black Bead) #14 [BT]
+
+category: Nymph
+
+hook: Grey Matzo Shrimp BL #14
+
+head: Black bead
+
+thread: UNI-Thread Black 6/0
+
+rib: Silver Oval tinsel
+
+body: Black thread
+
+thorax: Peacock herl
+
+mfg: Bert Timmerman
+
+location: Maxcatch, Down, Column 9
+
+---
+
+## Zebra Midge Pupa (Black variant, Gold Bead) #14 [BT]
+
+category: Nymph
+
+hook: Grey Matzo Shrimp BL #14
+
+head: Gold bead
+
+thread: UNI-Thread Black 6/0
+
+rib: Silver Oval tinsel
+
+body: Black thread
+
+thorax: Peacock herl
+
+mfg: Bert Timmerman
+
+location: Maxcatch, Down, Column 7
+
+---
+
+## Zebra Midge Pupa (Black variant, Yellow Bead) #14 [BT]
+
+category: Nymph
+
+hook: Grey Matzo Shrimp BL #14
+
+head: Yellow bead
+
+thread: UNI-Thread Black 6/0
+
+rib: Silver Oval tinsel
+
+body: Black thread
+
+thorax: Peacock herl
+
+mfg: Bert Timmerman
+
+location: Maxcatch, Down, Column 8
+
+---
+
+## Zebra Midge Pupa (Camel variant, Black Bead) #14 [BT]
+
+category: Nymph
+
+hook: Grey Matzo Shrimp BL #14
+
+head: Black bead
+
+thread: UNI-Thread Camel 8/0
+
+body: Camel thread
+
+rib: Silver Oval tinsel
+
+thorax: Peacock herl
+
+mfg: Bert Timmerman
+
+location: Maxcatch, Down, Column 3
+
+---
+
+## Zebra Midge Pupa (Camel variant, Gold Bead) #14 [BT]
+
+category: Nymph
+
+hook: Grey Matzo Shrimp BL #14
+
+head: Gold bead
+
+thread: UNI-Thread Camel 8/0
+
+body: Camel thread
+
+rib: Silver Oval tinsel
+
+thorax: Peacock herl
+
+mfg: Bert Timmerman
+
+location: Maxcatch, Down, Column 1
+
+---
+
+## Zebra Midge Pupa (Camel variant, Yellow Bead) #14 [BT]
+
+category: Nymph
+
+hook: Grey Matzo Shrimp BL #14
+
+head: Yellow bead
+
+thread: UNI-Thread Camel 8/0
+
+body: Camel thread
+
+rib: Silver Oval tinsel
+
+thorax: Peacock herl
+
+mfg: Bert Timmerman
+
+location: Maxcatch, Down, Column 2
+
+---
+
+## Zebra Midge Pupa (Olive variant, Black Bead) #14 [BT]
+
+category: Nymph
+
+hook: Grey Matzo Shrimp BL #14
+
+head: Black bead
+
+thread: UNI-Thread Olive 8/0
+
+rib: Silver Oval tinsel
+
+body: Olive thread
+
+thorax: Peacock herl
+
+mfg: Bert Timmerman
+
+location: Maxcatch, Down, Column 6
+
+---
+
+## Zebra Midge Pupa (Olive variant, Gold Bead) #14 [BT]
+
+category: Nymph
+
+hook: Grey Matzo Shrimp BL #14
+
+head: Gold bead
+
+thread: UNI-Thread Olive 8/0
+
+rib: Silver Oval tinsel
+
+body: thread
+
+thorax: Peacock herl
+
+mfg: Bert Timmerman
+
+location: Maxcatch, Down, Column 4
+
+---
+
+## Zebra Midge Pupa (Olive variant, Yellow Bead) #14 [BT]
+
+category: Nymph
+
+hook: Grey Matzo Shrimp BL #14
+
+head: Yellow fluo bead
+
+thread: UNI-Thread Olive 8/0
+
+rib: Silver Oval tinsel
+
+body: thread
+
+thorax: Peacock herl
+
+mfg: Bert Timmerman
+
+location: Maxcatch, Down, Column 5
+
+---
+
+## Zebra Midge Pupa (Red variant, Black Bead) #14 [BT]
+
+category: Nymph
+
+hook: Grey Matzo Shrimp BL #14
+
+head: Black bead
+
+thread: UNI-Thread Red 8/0
+
+rib: Silver Oval tinsel
+
+body: Red thread
+
+thorax: Peacock herl
+
+mfg: Bert Timmerman
+
+location: Maxcatch, Up, Column 1
+
+---
+
+## Zebra Midge Pupa (Red variant, Gold Bead) #14 [BT]
+
+category: Nymph
+
+hook: Grey Matzo Shrimp BL #14
+
+head: Gold bead
+
+thread: UNI-Thread Red 8/0
+
+rib: Silver Oval tinsel
+
+body: Red thread
+
+thorax: Peacock herl
+
+mfg: Bert Timmerman
+
+location: Maxcatch, Down, Column 10
+
+---
+
+## Zebra Midge Pupa (Red variant, Yellow Bead) #14 [BT]
+
+category: Nymph
+
+hook: Grey Matzo Shrimp BL #14
+
+head: Yellow bead
+
+thread: UNI-Thread Red 8/0
+
+rib: Silver Oval tinsel
+
+body: Red thread
+
+thorax: Peacock herl
+
+mfg: Bert Timmerman
+
+location: Maxcatch, Down, Column 11
+
+---
+
+## Zebra Nymph (White variant, Black Tungsten Bead 2.8 mm) #12 [BT]
+
+category: Nymph
+
+hook: Grey Matzo Shrimp BL #12
+
+head: Black Tungsten bead 2.8 mm
+
+thread: UNI-Thread White 8/0
+
+rib: Silver Oval tinsel
+
+body: White Floss 600 1-ply
+
+varnish: 2 layers head cement
+
+mfg: Bert Timmerman
+
+location: NYMPH #12, Up, Column 2
+
+---
+
+## Zebra Nymph (Yellow variant, Black Tungsten Bead 2.8 mm) #12 [BT]
 
 category: Nymph
 
