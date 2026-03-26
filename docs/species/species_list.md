@@ -17,7 +17,7 @@
 |  13 | 2005-10-15 | Vijfdradige meun                | Five bearded rockling   | Ciliata mustela             | NL, GB     |
 |  14 | 2006-08-02 | Blankvoorn                      | Roach                   | Rutilus rutilus             | NL         |
 |  15 | 2008-06-17 | Fint                            | Twaite Shad             | Alosa fallax                | NL         |
-|  16 | 2009-07-16 | Bruine Amerikaanse dwergmeerval | Brown bullhead          | Ameiurus nebulosus          | FR         |
+|  16 | 2009-07-16 | Zwarte Amerikaanse dwergmeerval | Black bullhead          | Ameiurus melas              | FR         |
 |  17 | 2009-11-28 | Noordzeekrab                    | Brown crab              | Cancer pagurus              | NL, GB     |
 |  18 | 2010-04-05 | Brasem                          | Bream                   | Abramis brama               | NL         |
 |  19 | 2010-05-09 | Hondshaai                       | Lesser spotted dogshark | Scyliorhinus canicula       | GB         |
