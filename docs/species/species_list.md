@@ -39,6 +39,7 @@
 |  35 | 2017-04-28 | Kleine pieterman                | Lesser weever           | Echiichthys vipera          | FR         |
 |  36 | 2017-07-08 | Rode poon                       | Red gurnard             | Chelidonichthys lucerna     | NL         |
 |  37 | 2017-08-25 | Schol                           | Plaice                  | Pleuronectus platessa       | NL         |
-|  38 | 2019-06-09 | Gladde haai                     | Common smoothound       | Mustelus mustelus           | GB         |
-|  39 | 2022-05-15 | Geep                            | Garfish                 | Belone belone               | DK         |
-|  40 | 2022-10-17 | Atlantische forel (Zeeforel)    | Seatrout                | Salmo trutta subsp. trutta  | DK         |
+|  38 | 2019-04-23 | Kopvoorn                        | Chub                    | Squalius cephalus           | BE         |
+|  39 | 2019-06-09 | Gladde haai                     | Common smoothound       | Mustelus mustelus           | GB         |
+|  40 | 2022-05-15 | Geep                            | Garfish                 | Belone belone               | DK         |
+|  41 | 2022-10-17 | Atlantische forel (Zeeforel)    | Seatrout                | Salmo trutta subsp. trutta  | DK         |
