@@ -11,7 +11,7 @@ set ytics 1
 set xlabel "\n"
 set boxwidth 2.0 relative
 set autoscale x
-set xtic rotate by 90 scale 0 offset 0.25,-2.5
+set xtic rotate by 90 scale 0 offset 0.25,-2.0
 
 plot '-' using 2:xticlabels(1) title ""
 
@@ -47,6 +47,8 @@ plot '-' using 2:xticlabels(1) title ""
 2022  7
 2023  1
 2024  0
+2025  6
+2026  5
 e
 # set output back to default
 set output
