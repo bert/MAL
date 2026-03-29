@@ -15,7 +15,7 @@
 |  11 | 1999-04-25 | Schar                           | Dab                     | Limanda limanda             | NL, GB, DK |
 |  12 | 2005-07-11 | Horsmakreel                     | Atlantic horse mackerel | Trachurus trachurus         | NL         |
 |  13 | 2005-10-15 | Vijfdradige meun                | Five bearded rockling   | Ciliata mustela             | NL, GB     |
-|  14 | 2006-08-02 | Blankvoorn                      | Roach                   | Rutilus rutilus             | NL         |
+|  14 | 2006-08-02 | Blankvoorn                      | Roach                   | Rutilus rutilus             | NL, FR         |
 |  15 | 2008-06-17 | Fint                            | Twaite Shad             | Alosa fallax                | NL         |
 |  16 | 2009-07-16 | Zwarte Amerikaanse dwergmeerval | Black bullhead          | Ameiurus melas              | FR         |
 |  17 | 2009-11-28 | Noordzeekrab                    | Brown crab              | Cancer pagurus              | NL, GB     |
