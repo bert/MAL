@@ -41,6 +41,9 @@ plot '-' using 2:xticlabels(1) title ""
 2016  8
 2017  15
 2018  12
+2019  14
+2020  2
+2021  1
 e
 # set output back to default
 set output
