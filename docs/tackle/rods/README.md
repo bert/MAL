@@ -32,8 +32,8 @@
 ## Boat rods:
 
 * [Abu-Garcia Suveran Uptider (9ft9")](Rods_Abu_Suveran_Uptide.md)
-* DAM Para Boat 500 (9ft)
 * DAM Hypron 250 (9ft)
+* DAM Para Boat 500 (9ft)
 * Lankhorst Taselaar Uptider (9ft)
 * Shakespeare Ugly-Stick 40-80 lbs (6ft6")
 * Shakespeare Ugly-Stick 20 lbs (6ft6")
@@ -41,23 +41,23 @@
 ## Carp rods:
 
 * DAM Andy Little Carp Fighter (11ft)
-* Ultimate Classic Carp (12ft)
 * Mitchell Star Carp (12ft)
+* Ultimate Classic Carp (12ft)
 
 ## Fly fishing rods:
 
 * Abu-Garcia Diplomat AFTMA #5/6 (9ft)
 * Ron Thompson Steelhead Pro AFTMA #7/8 (9ft, x2)
 * Scales AFTM #3 (10ft)
-* Shakespeare Pflueger Medalist AFTMA #4/5 (8ft)
 * Shakespeare Odessey AFTMA #5/6 (8ft6")
 * Shakespeare Oracle II River AFTM 4 (10ft)
+* Shakespeare Pflueger Medalist AFTMA #4/5 (8ft)
 * Shakespeare Sigma Fly AFTMA #3/4 (6ft)
 * Shakespeare Sigma Fly AFTMA #7/8 (10ft)
 
 ## Spin rods:
 
-* Shakespeare telecopic (6ft)
+* Albatros Predator Spin (7ft)
 * Balzer Double Strike twin tip (9ft)
-* Albatros (7ft)
-* Cormoran (8ft)
+* Cormoran Black Master spinning 240 (8ft)
+* Shakespeare  Firebird telecopic (6ft)
