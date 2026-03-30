@@ -6,8 +6,8 @@
 
 ## Boat reels:
 
-* Abu-Garcia 7000i
 * Abu-Garcia 6500 CS Mag
+* Abu-Garcia 7000i
 * Penn 210LH GTi
 * Penn 310 GTi
 * Penn Warfare 15
@@ -17,10 +17,9 @@
 * Daiwa Samurai (+ spare spool)
 * Daiwa Crossfire (+ spare spool)
 * Daiwa Emblem Pro 5000 (x2, + spare spool x2)
-* Penn Affinity 8000 (+ spare spools)
+* Penn Affinity 8000 (+ spare spool x2)
 * Penn Affinity II 8000
 * Penn Battle II 4000
-* Penn Affinity II 8000 Long Cast
 * Roltec G9000 (x2, + spare spool x1)
 * Shakespeare Whisker Titan (x2, + spare spool x1)
 * Shimano Ultegra 14000 XTE (x2 + spare spool x2)
